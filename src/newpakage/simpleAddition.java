@@ -11,5 +11,7 @@ public class simpleAddition {
         b=data.nextInt();
         int sum=a+b;
         System.out.print("Sum is:"+sum);
+        int sub=a-b;
+        System.out.print("sub is:"+sub);
     }
 }
