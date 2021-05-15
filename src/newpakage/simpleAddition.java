@@ -10,8 +10,8 @@ public class simpleAddition {
         a=data.nextInt();
         b=data.nextInt();
         int sum=a+b;
-        System.out.print("Sum is:"+sum);
+        System.out.println("Sum is:"+sum);
         int sub=a-b;
-        System.out.print("sub is:"+sub);
+        System.out.println("sub is:"+sub);
     }
 }
